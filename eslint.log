@@ -1,0 +1,83 @@
+
+/home/runner/work/exp-subspace-of-a-vector-space-dei/exp-subspace-of-a-vector-space-dei/experiment/simulation/js/js1.js
+   1:10  warning  'ssR' is defined but never used            no-unused-vars
+   6:11  warning  'r1explanation' is defined but never used  no-unused-vars
+  12:11  warning  'ssR2' is defined but never used           no-unused-vars
+  17:11  warning  'r2explanation' is defined but never used  no-unused-vars
+  24:11  warning  'ssR3' is defined but never used           no-unused-vars
+  29:11  warning  'r3explanation' is defined but never used  no-unused-vars
+
+/home/runner/work/exp-subspace-of-a-vector-space-dei/exp-subspace-of-a-vector-space-dei/experiment/simulation/js/js2.js
+   1:10  warning  'showmatrix' is defined but never used   no-unused-vars
+   2:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   3:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   4:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   5:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   6:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+   8:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  10:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  12:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  14:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  16:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  18:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  19:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  19:13  warning  'showABal' is defined but never used     no-unused-vars
+  20:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  22:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  24:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  25:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  28:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  28:13  warning  'showjst' is defined but never used      no-unused-vars
+  29:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  31:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  33:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  34:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  35:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  37:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  37:13  warning  'showres' is defined but never used      no-unused-vars
+  38:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  39:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  42:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  42:13  warning  'showmatrix2' is defined but never used  no-unused-vars
+  43:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  44:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  45:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  46:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  47:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  48:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  49:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  50:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  51:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  53:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  55:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  57:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  59:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  61:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  63:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  65:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  65:13  warning  'showABal2' is defined but never used    no-unused-vars
+  66:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  68:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  70:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  71:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  73:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  73:13  warning  'showjst2' is defined but never used     no-unused-vars
+  74:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  76:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  77:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  78:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  79:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  79:13  warning  'showres2' is defined but never used     no-unused-vars
+  80:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  81:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  83:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  83:13  warning  'showform' is defined but never used     no-unused-vars
+  84:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  85:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  87:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  87:13  warning  'showform2' is defined but never used    no-unused-vars
+  88:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+  89:1   warning  Mixed spaces and tabs                    no-mixed-spaces-and-tabs
+
+✖ 76 problems (0 errors, 76 warnings)
+
